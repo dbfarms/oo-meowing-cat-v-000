@@ -2,11 +2,8 @@
 class Cat
   attr_accessor :cat_name
 
-  def initialize
-    @cat_name = cat_name
-  end
 
-  def name
+  def cat_name=(cat_name)
     return @cat_name
   end
 
