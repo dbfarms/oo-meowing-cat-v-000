@@ -4,7 +4,7 @@ class Cat
 
 
   def name=(cat_name)
-    return @cat_name
+    @cat_name=cat_name
   end
 
   def meow
