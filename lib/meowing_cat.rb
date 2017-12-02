@@ -1,14 +1,14 @@
-## code your solution here. 
-class Cat 
+## code your solution here.
+class Cat
 
-  attr_accessor :name 
+  attr_accessor :name
 
   def name
 
-  end 
+  end
 
   def meow
     puts "meow"
-  end 
+  end
 
 end 
