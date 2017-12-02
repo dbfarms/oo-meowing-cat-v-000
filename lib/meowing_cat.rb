@@ -6,8 +6,8 @@ class Cat
     @cat_name = cat_name
   end
 
-  def name(cat_name)
-    @cat_name = cat_name
+  def name
+    return @cat_name
   end
 
   def meow
